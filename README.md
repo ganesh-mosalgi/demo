@@ -2,4 +2,3 @@
 
 ## Harsh Pandhe
 
-### Sumit Jadhav
